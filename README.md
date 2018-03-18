@@ -12,3 +12,4 @@ In this sample, we have two pipelines: CI and CD:
   
 *  After tests in QA, we can use the CD pipeline to deploy the changes that are approved in QA to the Production Cluster.
 
+![alt text](https://github.com/MarcioRAGarcia/skipchallenge/blob/master/CD_pipeline.png "CD pipeline")
